@@ -9,9 +9,9 @@
 
    -⚡ Fun fact: I love playing Mobile Legend
 
-Connect with me on:
+**Connect with me on:**
 
-[LinkedIn](https://www.linkedin.com/in/lakpa-hyolmo)
+[[(https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)]](https://www.linkedin.com/in/lakpa-hyolmo)
 <!--
 **LakpaSherpa123/LakpaSherpa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
