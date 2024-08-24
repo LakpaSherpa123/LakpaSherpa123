@@ -13,7 +13,7 @@
 
 <a href="https://www.linkedin.com/in/lakpa-hyolmo" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="25" height="25"/></a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LakpaSherpa123&hide=css,html&layout=compact)s
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LakpaSherpa123&hide=css,html&layout=compact)
 <!--
 **LakpaSherpa123/LakpaSherpa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
