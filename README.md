@@ -1,4 +1,9 @@
 ## Hi there 👋
+## Hi there, I'm Lakpa Sherpa!👋
+🔭 I'm a Full Stack Developer
+🌱 I’m currently learning Spring Boot & React
+💰 I love learning about new technology and finance
+⚡ Fun fact: I love playing Mobile Legend
 
 <!--
 **LakpaSherpa123/LakpaSherpa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
