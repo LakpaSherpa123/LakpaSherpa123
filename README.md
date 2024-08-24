@@ -10,7 +10,7 @@
    -⚡ Fun fact: I love playing Mobile Legend
 
 **Connect with me on:**
-[![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/lakpa-hyolmo)
+<a href="https://www.linkedin.com/in/lakpa-hyolmo" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20"/></a>
 <!--
 **LakpaSherpa123/LakpaSherpa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
