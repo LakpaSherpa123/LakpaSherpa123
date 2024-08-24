@@ -10,7 +10,10 @@
    -⚡ Fun fact: I love playing Mobile Legend
 
 **Connect with me on:**
+
 <a href="https://www.linkedin.com/in/lakpa-hyolmo" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="25" height="25"/></a>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide=css,html&layout=compact)s
 <!--
 **LakpaSherpa123/LakpaSherpa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
