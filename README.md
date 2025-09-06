@@ -3,7 +3,7 @@
 
    -🔭 I'm a Full Stack Developer
 
-   -🌱 I’m currently learning Spring Boot & React
+   - 🤖 I'm currently learning about leveraging LLMs to build intelligent, full-stack applications.
 
    -💰 I love learning about new technology and finance
 
